@@ -19,7 +19,7 @@ let elementClass = 'App-link';
 let element = (
   <div style={elementStyle}>
     <h1>JSX表达式</h1>
-    <h2 className="App-link">{1+1}</h2>
+    <h2 className={elementClass}>{1+1}</h2>
     <h2>{man=='发热'?<button>隔离</button>:element2}</h2>
   </div>
 );
