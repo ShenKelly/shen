@@ -1,0 +1,13 @@
+{"data":[
+        {"city":"假江苏","confirmed":"10","died":"1","crued":"9","confirmedRelative":"0","curConfirm":"0","cityCode":"147"},
+        {"city":"假上海","confirmed":"23","died":"0","crued":"23","confirmedRelative":"0","curConfirm":"0","cityCode":"206"},
+        {"city":"假湖南","confirmed":"4","died":"0","crued":"4","confirmedRelative":"0","curConfirm":"0","cityCode":"343"},
+        {"city":"假湖北","confirmed":"17","died":"0","crued":"17","confirmedRelative":"0","curConfirm":"0","cityCode":"306"},
+        {"city":"假河南","confirmed":"10","died":"0","crued":"10","confirmedRelative":"0","curConfirm":"0","cityCode":"342"},
+        {"city":"假河北","confirmed":"36","died":"1","crued":"35","confirmedRelative":"0","curConfirm":"0","cityCode":"146"},
+        {"city":"假浙江","confirmed":"10","died":"0","crued":"10","confirmedRelative":"0","curConfirm":"0","cityCode":"205"},
+        {"city":"假武汉","confirmed":"32","died":"0","crued":"32","confirmedRelative":"0","curConfirm":"0","cityCode":"262"},
+        {"city":"假江西","confirmed":"4","died":"0","crued":"4","confirmedRelative":"0","curConfirm":"0","cityCode":"263"},
+        {"city":"假山东","confirmed":"0","died":"0","crued":"0","confirmedRelative":"0","curConfirm":"0"},
+        {"city":"假山西","confirmed":"1","died":"0","crued":"1","confirmedRelative":"0","curConfirm":"0"}
+]}

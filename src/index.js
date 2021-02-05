@@ -1,10 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './App.css'
+import jsonDate from './data.json';
 
+let provinceList = {};
+ 
+jsonDate.data.map((item)=>{
+  provinceList[item.city] = {
+    
+  }
+  return item;
+})
+
+class Parent extends React.Component{
+  constructor(){
+    super();
+  }
+
+  render(){
+    return (
+      <div></div>
+    );
+  }
+}
 
 ReactDOM.render(
-  <div></div>,
+  <Parent />,
   document.querySelector('#root')
 )
 
